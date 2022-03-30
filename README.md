@@ -5,6 +5,8 @@
 
 PREVIEW : https://medal.tv/games/gta-v/clips/fx6HQlKQTOu1C/d13370iuc4x9?invite=cr-MSxDRXUsMjM3NTk3MjEs
  
+- NPC code from : github.com/Lionh34rt
+
 Dependency's:
 - qb-core
 - qb-target
